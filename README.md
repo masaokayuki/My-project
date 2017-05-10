@@ -91,8 +91,8 @@ My first project about BBS.
 　　➡12個
   　
   BBS機能
-  　JAVAで実現。servlet,JDBC,Seasaar
-   http://fanblogs.jp/kagayakibito/archive/250/0
+  　JAVAで実現。servlet,JDBC,Seasaar、板をリンクで飛ばすのではなく、スレを作る時に、主にカテゴリを決めてもらう。その後カテゴリごとに分ける。
+   http://fanblogs.jp/kagayakibito/archive/250/0
 
 　相互評価システム
 　　いいね！機能orハートの数（5段階評価）　交換終了時にお互いに評価する➡事実上のブロックチェーンシステム
