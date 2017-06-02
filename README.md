@@ -96,6 +96,8 @@ My first project about BBS.
   BBS機能
   　JAVAで実現。servlet,JDBC,Seasaar
    http://fanblogs.jp/kagayakibito/archive/250/0
+   
+   https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10127934895
 
 　相互評価システム
 　　いいね！機能orハートの数（5段階評価）　交換終了時にお互いに評価する➡事実上のブロックチェーンシステム
