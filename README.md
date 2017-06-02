@@ -98,6 +98,8 @@ My first project about BBS.
    http://fanblogs.jp/kagayakibito/archive/250/0
    
    https://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q10127934895
+   
+   http://andante.in/i/xml/%e8%89%b2%e3%81%ae%e3%83%87%e3%83%bc%e3%82%bf%e3%82%92%e5%ae%9a%e6%95%b0%e3%81%a7%e6%89%b1%e3%81%86/
 
 　相互評価システム
 　　いいね！機能orハートの数（5段階評価）　交換終了時にお互いに評価する➡事実上のブロックチェーンシステム
